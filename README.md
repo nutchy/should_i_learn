@@ -1,9 +1,11 @@
-# ปีนี้ฝึกอะไรเพิ่มดี ?
+# What should i learn for this year ?
 
 ## Web Development (Frontend + Backend)
+- [ ] Learn more about Golang
 - [ ] React
 - [ ] TypeScript
 - [ ] Three.js
+- [ ] Vuepress
 - [ ] Wordpress
 - [ ] Web Notification
 - [ ] Progressive Web Apps
