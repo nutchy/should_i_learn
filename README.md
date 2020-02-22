@@ -4,6 +4,7 @@
 - [ ] Learn more about Golang
 - [ ] React
 - [ ] TypeScript
+- [ ] AngularJS
 - [ ] Three.js
 - [ ] Vuepress
 - [ ] Wordpress
@@ -18,6 +19,10 @@
 - [ ] SEO / Google Analytics / Google Search Console
 - [ ] Web Optimization
 - [ ] Portfolio
+
+## Mobile
+- [ ] Dart
+- [ ] Flutter
 
 
 ## DevOps
